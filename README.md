@@ -37,6 +37,6 @@
 
 Isso iniciará o código. Para acessar a interface, abra no navegador `http://127.0.0.1:7860/` 🌐
 
-## Vídeo demonstrativo do funcionamento 🎥
+## Demo: 🎥
 
 https://www.loom.com/share/d04cb9d6d8a843e59ce6c1a1893a68fe
