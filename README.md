@@ -7,7 +7,7 @@
    git clone https://github.com/emanuelemorais/exercicios-mod8.git
    ```
 
-2. **Crie um arquivo .env no diretório `exercicios-mod8/ponderada4`:**
+2. **Crie um arquivo .env:**
    ```bash
    touch .env
    ```
