@@ -4,7 +4,7 @@
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/emanuelemorais/exercicios-mod8.git
+   git clone https://github.com/henriquemarlon/ativ5-m8.git
    ```
 
 2. **Crie um arquivo .env:**
